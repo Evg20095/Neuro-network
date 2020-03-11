@@ -182,3 +182,5 @@ color = (255, 0, 0)
 thickness = 3
 image = cv2.rectangle(image, start_point, end_point, color, thickness)
 plt.imshow(image)
+
+https://user-images.githubusercontent.com/58568096/76470782-097b2900-6402-11ea-89a0-42547d0cc58e.png
