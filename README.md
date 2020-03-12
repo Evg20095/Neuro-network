@@ -8,6 +8,7 @@
 Faster R-CNN, где backbone resnet50. Pytorch.
 
 Какие библеотеки использовал?
+
 Для предобработки датасета:
 shutil,
 os,
