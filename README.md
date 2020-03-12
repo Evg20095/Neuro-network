@@ -22,3 +22,5 @@ torchvision,
 
 Для визуализации:
 cv2
+
+Статьи: https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
