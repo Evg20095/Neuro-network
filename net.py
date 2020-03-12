@@ -183,4 +183,4 @@ thickness = 3
 image = cv2.rectangle(image, start_point, end_point, color, thickness)
 plt.imshow(image)
 
-Получившуюся картинку можно увидеть в разделе Issues
+Получившуюся картинку можно увидеть в ReadMe.
